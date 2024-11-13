@@ -3,9 +3,7 @@ package com.javaacademy.calc_computer_spring;
 import com.javaacademy.calc_computer_spring.calc.Printer;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.boot.test.mock.mockito.SpyBean;
 
 @SpringBootTest

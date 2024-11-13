@@ -1,7 +1,6 @@
 package com.javaacademy.calc_computer_spring;
 
 import com.javaacademy.calc_computer_spring.calc.Calculator;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
